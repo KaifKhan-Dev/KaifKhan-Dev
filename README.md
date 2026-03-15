@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Kaif Khan
-**A passionate FullStack Developer || DevOps Engineer || Kafka Admin from India**
+**A passionate FullStack Developer || From India**
 
 Email Me 👉 ✉️ **Khanmk3369@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 

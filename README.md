@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **Khanmk3369@gmail.com** For Collaboration/Project or Anyth
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaif-khan-27873b284/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@kaif khan zafar khan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanmk3369@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaif-khan-27873b284/).(mailto:khanmk3369@gmail.com) 
 
 
 <!-- Snake Game Repo View -->

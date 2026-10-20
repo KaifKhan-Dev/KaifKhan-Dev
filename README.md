@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Kaif Khan
+# Hi 👋, I'm Kaif Khan
 **A passionate FullStack Developer || From India**
 
 Email Me 👉 ✉️ **Khanmk3369@gmail.com** For Collaboration/Project or Anything Else. 😊😊
